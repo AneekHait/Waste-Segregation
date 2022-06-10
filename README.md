@@ -1,6 +1,6 @@
 # Minor-Project: Autonomous Smart Waste Segregation
 
-***This repository contains the code for the Minor-Project for Autonomous Smart Waste Segregation using Deep Learning.***
+***This repository contains the code for the Project for Autonomous Smart Waste Segregation using Deep Learning.***
 
 # Requirements
 
